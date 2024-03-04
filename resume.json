@@ -1,9 +1,14 @@
 
 {
     "name": "Johnson Rosario M",
+    "role": "Programmer",
+    "contact":{
+        "ph":"9360332571",
+        "mail":"johnsonrosariomm@gmail.com",
+        "linkedin": "johnson-rosario-m"
+    },
     "digi":{
             "dob":"22/11/2001",
-            "ph":"9360332571",
             "age":"22"
     },
     "edu":{
