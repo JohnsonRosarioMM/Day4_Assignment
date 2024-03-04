@@ -1,0 +1,20 @@
+
+{
+    "name": "Johnson Rosario M",
+    "digi":{
+            "dob":"22/11/2001",
+            "ph":"9360332571",
+            "age":"22"
+    },
+    "edu":{
+        "clg": "B.com Graduate (7.2 CGPA)",
+        "hsc": "HSC - 76%",
+        "sslc": "SSLC - 92%"
+    },
+    "skill": "HTML, CSS, Javascript, MS Office package",
+    "lan": "English, Tamil, French",
+    "we": "Programmer @ Cognizant for past 2 years",
+    "ach": "Author of the book - Dumbass's Diary",
+    "rec": "Guinness World Records with GUVI Pvt. Ltd (AI for India)",
+    "cer": "SAP Certified Associate S/4 HANA for Financial Accounting Associate"
+}  
